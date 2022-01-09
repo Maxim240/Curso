@@ -1,5 +1,5 @@
 <?php
-include_once('./cofig/conexión.php');
+include_once('./cofig/conexion.php');
 include_once("Cuentoautor.php");
 class Autor {
     private $idAutor=NULL;
